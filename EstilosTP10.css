@@ -1,0 +1,33 @@
+/* PUNTO 4 */
+.titulo {
+  font-size: 24px;
+  font-style: arial;
+  text-align: center;
+  color: blue;
+}
+.lineas {
+  font-style: arial, sans-serif;
+  color: red;
+  margin-left: 80px;
+  text-align: center;
+}
+/*PUNTO 5 */
+#titulo {
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: blue;
+  text-decoration: underline;
+}
+#p1 {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  color: red;
+  text-align: right;
+}
+#p2 {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  color: blue;
+  text-align: left;
+}
